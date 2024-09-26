@@ -1,2 +1,2 @@
 # covid19-trend-analysis-ml-forecasting
-This repository investigates trends in COVID-19 confirmed deaths active and recovered patients worldwide and in India, utiThe project leverages Python for data manipulation and analysis.lizing machine learning techniques.
+This project investigates global trends in COVID-19, including confirmed cases, deaths, active cases, and recoveries, with a specific focus on India. It utilizes Python for data manipulation and analysis, incorporating machine learning techniques for deeper insights. Additionally, the project forecasts these trends using the Facebook Prophet library to enhance understanding of the pandemic's trajectory.
